@@ -5,7 +5,7 @@ Because of the complexity of the language, the students code has to comply with 
 
 ## Description
 
-Please find a detailed description of all Modules in the READMEs included in the 
+Please find a detailed description of the tasks in the READMEs of the respective subfolders of the individual modules.
 
 ## Learnings
 
